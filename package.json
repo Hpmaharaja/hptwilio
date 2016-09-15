@@ -1,0 +1,22 @@
+{
+  "name": "hptwilio",
+  "version": "1.0.0",
+  "description": "Twilio nodejs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hpmaharaja/hptwilio.git"
+  },
+  "author": "hpmaharaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hpmaharaja/hptwilio/issues"
+  },
+  "homepage": "https://github.com/Hpmaharaja/hptwilio#readme",
+  "dependencies": {
+    "twilio": "^2.10.0"
+  }
+}
