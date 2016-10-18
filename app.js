@@ -1,5 +1,5 @@
 //require the Twilio module and create a REST client
-var client = require('twilio')('ACCOUNT_SID', 'AUTH_TOKEN');
+var client = require('twilio')('ACCOUNT_SID', 'AUTH_TOKEN'); 
 
 //Send an SMS text message
 client.sendMessage({
